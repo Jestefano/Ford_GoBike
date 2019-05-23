@@ -21,3 +21,4 @@ Resources:
 
 - Udacity Data Analyst program.
 - Documentation from matplotlib
+- https://github.com/hakimel/reveal.js#installation
