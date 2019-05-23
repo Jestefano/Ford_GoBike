@@ -15,7 +15,7 @@ My main findings from the exploratory analysis are the following:
 
 3) The distribution of the start and end position are almost identical. With a big concentration around (37.78,-122.40). First I focused on the outsiders, since there is data missing (I assumed that they put the coordinates (0,0) to portray that) I deleted them. Then, I put the two graphs in paralel to see what are the main differences between them. The decision of the graph was mainly because I was using two variables. There was another alternative that I did not take, which is a scatter plot using different colors. I did not use it because the amount of data is really large. Because of that I decided to split the graph into two different parts.
 
-4)
+4) The main focus of the next graph (and next finding) is the fact that even though we look at two different groups, their consumption might be different in the sense of time. So in order to verify that I plotted the graph of the city and checked the density of the consumption per point. As I noted the consumption and the density of the consumption are different from the amount of data that we have.
 
 Resources:
 
